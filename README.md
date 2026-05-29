@@ -1,4 +1,5 @@
-# Hi 👋, I'm Arnav Sohani
+<h1 align="center">Hey 👋, I'm Arnav Sohani</h1>
+
 
 ## 🚀 About Me
 - 🎓 Computer Engineering Student
