@@ -1,17 +1,33 @@
-## 👋 Hi, I'm Arnav Sohani (aka Frostwalker3107)
+<h1 align="center">Hey 👋, I'm Arnav Sohani (aka Frostwalker3107) </h1>
 
-🎓 Final-year **Computer Engineering** student at **MIT ADT (2022–2026)**  
-💻 Frontend / Full-Stack Engineer • Applied AI/ML
-📈 Building **Frontend**
+## 🚀 About Me
+- 🎓 Final-year **Computer Engineering** student at **MIT ADT (2022–2026)**
+- 💻 Frontend / Full-Stack Engineer • Applied AI/ML
+- 📈 Building **Frontend**
 
 ---
 
-## 🚀 What I’ve Built
+## 📂 What I’ve Built
 
 
-- **Intelligent Traffic Light Control System** — 
-- **AutoMail Agent** — 
-- **RecruitIQ** — 
+### **Intelligent Traffic Light Control System** — Smart traffic management using computer vision and YOLO.
+- Vehicle detection
+- Traffic density analysis
+- Automated signal optimization
+
+### **RecruitIQ** — AI-powered recruitment management system.
+- Resume analysis
+- Candidate tracking
+- Recruitment workflow management
+- Modern web interface
+
+### **BillBuddies** — An expense-sharing and group finance management platform.
+- Expense tracking
+- Group settlements
+- Pool contributions
+- Excel import/export
+- Spring Boot + React + MySQL
+
 
 ---
 
@@ -52,8 +68,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
@@ -65,25 +79,13 @@
 
 ---
 
-## 🏆 Highlights (Brief)
+## 🏆 Highlights
 
 - 🧠 Research Paper published in IEEE Conference for **Intelligent Traffic Light Control System** 
 
----
-
-## 🔝 Top Contributed Repositories
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Frostwalker3107&limit=6&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=POPPz07&theme=dark)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=POPPz07&theme=dark)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POPPz07&layout=compact&theme=dark)
-
----
 
 ## 📫 Connect
  
