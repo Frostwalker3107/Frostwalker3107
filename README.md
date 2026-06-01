@@ -3,7 +3,6 @@
 ## 🚀 About Me
 - 🎓 Final-year **Computer Engineering** student at **MIT ADT (2022–2026)**
 - 💻 Frontend / Full-Stack Engineer • Applied AI/ML
-- 📈 Building **Frontend**
 
 ---
 
