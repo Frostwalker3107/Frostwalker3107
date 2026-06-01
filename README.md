@@ -1,90 +1,93 @@
-<h1 align="center">Hey 👋, I'm Arnav Sohani</h1>
+## 👋 Hi, I'm Arnav Sohani (aka Frostwalker3107)
+
+🎓 Final-year **Computer Engineering** student at **MIT ADT (2022–2026)**  
+💻 Frontend / Full-Stack Engineer • Applied AI/ML
+📈 Building **Frontend**
+
+---
+
+## 🚀 What I’ve Built
 
 
-## 🚀 About Me
-- 🎓 Computer Engineering Student
-- 📊 Certified in Google Data Analytics
-- 💻 Passionate about Software Development, Data Analytics, and Machine Learning
-- 🌱 Currently learning Machine Learning, Data Mining, and Data Warehousing
-- 🔍 Interested in Full-Stack Development and AI-powered Applications
-- ⚡ Always exploring new technologies and building practical projects
+- **Intelligent Traffic Light Control System** — 
+- **AutoMail Agent** — 
+- **RecruitIQ** — 
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2307405e?style=for-the-badge)
+
+---
 
 ### 🌐 Frontend & UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
 
 ### ⚙️ Backend, APIs & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
 
 ### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
-
-### 💰 BillBuddy
-An expense-sharing and group finance management platform.
-- Expense tracking
-- Group settlements
-- Pool contributions
-- Excel import/export
-- Spring Boot + React + MySQL
-
-### 🤖 RecruitIQ
-AI-powered recruitment management system.
-- Resume analysis
-- Candidate tracking
-- Recruitment workflow management
-- Modern web interface
-
-### 🚦 Intelligent Traffic Light Control System
-Smart traffic management using computer vision and YOLO.
-- Vehicle detection
-- Traffic density analysis
-- Automated signal optimization
+### 🤖 AI / ML & Data
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+### ☁️ Cloud, DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🌟 Current Focus
-- Machine Learning
-- Spring Boot Development
-- Full-Stack Web Applications
-- Data Analytics
-- AI & Computer Vision
+## 🏆 Highlights (Brief)
+
+- 🧠 Research Paper published in IEEE Conference for **Intelligent Traffic Light Control System** 
 
 ---
 
-## 📫 Connect With Me
+## 🔝 Top Contributed Repositories
 
-- LinkedIn: www.linkedin.com/in/arnav-sohani-707aa6257
-- Email: arnav.sohani14@gmail.com
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Frostwalker3107&limit=6&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=POPPz07&theme=dark)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=POPPz07&theme=dark)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POPPz07&layout=compact&theme=dark)
+
+---
+
+## 📫 Connect
+ 
+- 🔗 LinkedIn: www.linkedin.com/in/arnavsohani  
+- 📧 Email: **arnav.sohani14@gmail.com**
+
+[![](https://visitcount.itsvg.in/api?id=POPPz07&icon=0&color=0)](https://visitcount.itsvg.in)
