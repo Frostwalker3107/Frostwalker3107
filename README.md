@@ -20,13 +20,6 @@
 - Recruitment workflow management
 - Modern web interface
 
-### **BillBuddies** — An expense-sharing and group finance management platform.
-- Expense tracking
-- Group settlements
-- Pool contributions
-- Excel import/export
-- Spring Boot + React + MySQL
-
 
 ---
 
